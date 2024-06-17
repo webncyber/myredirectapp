@@ -4,74 +4,99 @@ const nextConfig = {
       return [
         {
           source: '/flyers/dr-strings-nickel-lo-rider',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/baby-must-haves/BabyBjorn-small-baby-bib',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/back-to-school/large-college-backpack',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/baby-must-haves/retractable-baby-gate',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/back-to-school/shower-caddy-tote-bag',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/home-decor/facts-on-having-a-cozy-home',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/healthy-recipes/top-5-brunch-ideas',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/baby-must-haves/baby-electric-nail-trimmer',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/gardening/leaf-sweepers',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/back-to-school',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/healthy-recipes',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/home-decor',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/baby-must-haves',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
         {
           source: '/blogs/gardening',
-          destination: '/',
+          destination: 'https://ideaguide.net/',
           permanent: true,
         },
+        {
+          source: '/blogs/music-tech',
+          destination: 'https://ideaguide.net/music-tech',
+          permanent: true,
+        },
+        {
+          source: '/blogs/music',
+          destination: 'https://ideaguide.net/music-tech',
+          permanent: true,
+        },
+        {
+          source: '/blogs/music-tech/build-your-home-studio',
+          destination: 'https://ideaguide.net/blogs/music-tech/build-your-home-studio',
+          permanent: true,
+        },
+        {
+          source: '/blogs/music-tech/ultimate-guide-music-production-software-daws',
+          destination: 'https://ideaguide.net/blogs/music-tech/ultimate-guide-music-production-software-daws',
+          permanent: true,
+        },
+        {
+          source: '/blogs/music-tech/home-studio-computer',
+          destination: 'https://ideaguide.net/blogs/music-tech/home-studio-computer',
+          permanent: true,
+        }
       ]
     }
   }
