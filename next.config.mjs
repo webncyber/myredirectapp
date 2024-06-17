@@ -74,7 +74,7 @@ const nextConfig = {
         },
         {
           source: '/blogs/music-tech',
-          destination: 'https://ideaguide.net/music-tech',
+          destination: 'https://ideaguide.net/blogs/music-tech',
           permanent: true,
         },
         {
