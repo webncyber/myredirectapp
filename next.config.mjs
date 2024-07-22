@@ -96,6 +96,11 @@ const nextConfig = {
           source: '/blogs/music-tech/home-studio-computer',
           destination: 'https://ideaguide.net/blogs/music-tech/home-studio-computer',
           permanent: true,
+        },
+        {
+          source: '/blogs/music/build-your-home-studio',
+          destination: 'https://ideaguide.net/blogs/music-tech/home-studio-computer',
+          permanent: true,
         }
       ]
     }
