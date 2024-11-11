@@ -47,8 +47,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.center}>
         <h1>
-          Welcome to 
-          MyResearchCenter.com
+          Welcome to  {process.env.NEXT_PUBLIC_SITE_DOMAIN}
         </h1>
         <h2>This domain is for sale!</h2>
         <div className={styles.description}>
