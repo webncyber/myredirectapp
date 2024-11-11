@@ -14,7 +14,7 @@ export default function Home() {
 
     const formData = {
       pageURL: window?.location?.href,
-      fromPage: "MRC Domain Sale Offer",
+      fromPage: process.env.NEXT_PUBLIC_SITE_DOMAIN + " Domain Sale Offer",
       fullname: inputFullname,
       email: inputEmail,
       message: inputMessage,
